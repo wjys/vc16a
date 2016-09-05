@@ -4,8 +4,8 @@
 
 #### Game Design Department
 
-    Winnie Song • jys325@nyu.edu • Spring 2016
-    Tuesday & Thursday • 2:30-4:20PM • Room: 2MTC MAGNET 811
+    Winnie Song • jys325@nyu.edu • Fall 2016
+    Tuesday • 4:55-7:35PM • Room: 2MTC MAGNET 830
     Office hours by appointment or directly before class 
     Office: MAGNET • Phone: 347 988 5185
 
@@ -13,13 +13,13 @@
    
 
 ####Course Management Site
-* http://vfs16c.slack.com
+* http://vizcomm1.slack.com
 
 
 ---
 
 
-## Visual Foundation Studio
+## Intro to Visual Communication
 
 This course allows students to harness the power of visual language in order to convey messages and meaning. The elements of visual foundation that will be covered include components (color, texture, image and typography), composition, and concept. Although non-digital mediums will be addressed, the understanding and use of industry-standard software is also a primary goal.
 
