@@ -1,7 +1,8 @@
-# DM-UY 1123 Visual Foundation Studio
+# GAMES-UT 201:Intro to Visual Communication
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
+
+
+#### Game Design Department
 
     Winnie Song • jys325@nyu.edu • Spring 2016
     Tuesday & Thursday • 2:30-4:20PM • Room: 2MTC MAGNET 811
