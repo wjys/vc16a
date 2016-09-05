@@ -1,6 +1,6 @@
 # GAMES-UT 201:Intro to Visual Communication
 
-
+![](http://www.fusionfilmfestival.com/wp-content/uploads/2013/01/tisch-logo-left.png)
 
 #### Game Design Department
 
