@@ -9,7 +9,7 @@
 
 ---
 
-## Class Exercise: Typefaces
+## Elements Exercise: Typefaces
 
 * **Post to blog, your favorite typeface used within an image**
 
