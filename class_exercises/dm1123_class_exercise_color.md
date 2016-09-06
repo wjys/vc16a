@@ -9,7 +9,7 @@
 
 ---
 
-## Class Exercise: Color
+## Elements Exercise: Color
 
 * **Post to blog, an image or illustration which contains your favorite color palette**
 
