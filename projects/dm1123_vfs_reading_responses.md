@@ -12,11 +12,10 @@
 
 ## READING RESPONSES
 
-* Post to blog with the title and author as subject
+* Post to blog with the title of the reading as subject
 
 Answer the following questions:
 * The most important point(s) (or the most useful or valuable thing(s) you learned) from the reading, and why.
-* The most confusing points, or points you disagreed with, and why.
 * An image or description of a real world example that supports the reading, or argues against it.
 
 
