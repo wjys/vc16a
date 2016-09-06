@@ -9,16 +9,17 @@
 
 ---
 
-## SHOW & TELL - SIGN-UP
+## SIGN-UPS
 
-*The sign up for Show & Tells will be determined on a first come, first served basis*
+*The sign up for Logos and Designers will be determined on a first come, first served basis*
 
-**LOGO - Show & Tell**<br>
+**LOGO STUDY**<br>
 Sign up here: [GOOGLE FORM](https://docs.google.com/forms/d/1JFU5te-OQnnPiowxMRcRQkY4rEDFbsmJ2asepgEQE-I/viewform?usp=send_form)
 <br><Br>
-**DESIGNER - Show & Tell**<br>
+**DESIGNER SHOW & TELL**<br>
 Sign up here: [GOOGLE SPREADSHEET](https://docs.google.com/spreadsheets/d/1L_IN57m-chYcL2Q5Ez56TsXynCFtoQnydVRchKjHS3k/edit?usp=sharing)
 ***
+<!--
 ####SHOW & TELL SCHEDULE:
 
 <table>
@@ -126,3 +127,4 @@ PRESENTING: ___________<br></td>
         <td><a href="weekly_detail/wk15.md">MAy 5<br><strong>//</strong></a></strong></td>
     </tr>
 </table>
+-->
