@@ -33,37 +33,32 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>09/13<br><strong><i><a href="weekly_detail/wk2.md">Components: COLOR</i></strong></a></td>
-        <td><a href="weekly_detail/wk2.md">09/13<br><strong>Photoshop Introduction<br>
-        Components: COLOR</strong></a>
-        </td>
+        <td>09/13<br><strong><i>Components: COLOR</i></strong></a><br>Photoshop Introduction<br></td>
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top"><a href="weekly_detail/wk3.md">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i></strong></td>
-        <td valign="top"><a href="weekly_detail/wk3.md">Feb 11<br><strong>Components: COLOR & TYPE<br>
+        <td valign="top">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i><br></strong>
         Color & Type Exercise<br>
-        Adobe tutorials</strong></a></td>
+        Adobe tutorials</strong></strong></td>
+        
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><a href="weekly_detail/wk4.md">09/27<br><strong>Components: IMAGE</strong></a><br><br><strong><i></i></strong></td>
-        <td valign="top"><a href="weekly_detail/wk4.md">Feb 18<br><strong>What is a Logo?<br>
-        Components: IMAGE<br>
-        Components: COMPOSITION & CONCEPT</strong></a></td>
+        <td valign="top">09/27<br><strong>Components: IMAGE,</a><br>COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><a href="weekly_detail/wk5.md">10/04<br><strong>Components: Components: COMPOSITION & CONCEPT<br>
-        Logo Project Audit</strong></a></td>
-        <td><a href="weekly_detail/wk5.md">Feb 25<br><strong><u><a href ="projects/dm1123_vfs_show_and_tells.md">LOGO Show & Tells</a></u></strong></a></td>
+        <td>10/04<br><strong>Components: COMPOSITION & CONCEPT<br>
+        Logo Project Audit</strong><br>
+        LOGO Studies</a></td>
+        
     </tr>
     <tr>
         <td>6</td>
-        <td><a href="weekly_detail/wk6.md">10/11<br><strong>Components: Modularity & Time</strong>
-        <br> Logo Project Audit</a></td>
-        <td><a href="weekly_detail/wk6.md">Mar 03<br><strong>Semiotics<br>
-        Branding Exercise</strong></a><strong></td>
+        <td>10/11<br><strong>Components: Modularity & Time</strong>
+        <br> Logo Project Audit</a><br>
+        Semiotics<br>
+        Branding Exercise</strong></td>
     </tr>
     <tr>
         <td>7</td>
@@ -75,7 +70,7 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>10/25<br><strong>NO CLASS (SPRING BREAK)</strong></td>
+        <td>10/25<br><strong></strong></td>
         <td>Mar 17<br><strong>NO CLASS (SPRING BREAK)</strong></td>
     </tr>
     <tr>
