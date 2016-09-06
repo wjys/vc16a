@@ -27,10 +27,9 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/wk1.md">09/06<br><strong>Course and Student Introductions & Overview of Course</strong></a></td>
-        <td><a href="weekly_detail/wk1.md">Jan 28<br><strong>Visual Design Intro: What is Visual Design?<br>
-        Screening: Black Panther
-        </a></strong></td>
+        <td><a href="weekly_detail/wk1.md">09/06<br><strong>Course and Student Introductions & Overview of Course</strong><br>
+        Visual Design Intro: What is Visual Design?<br>
+        Screening: Black Panther</a></td>
     </tr>
     <tr>
         <td>2</td>
