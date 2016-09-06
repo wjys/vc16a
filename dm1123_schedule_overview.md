@@ -1,18 +1,19 @@
-# DM-UY 1123 Visual Foundation Studio
+# GAMES-UT 201: Intro to Visual Communication
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
+![](http://www.fusionfilmfestival.com/wp-content/uploads/2013/01/tisch-logo-left.png)
 
-    Winnie Song • jys325@nyu.edu • Spring 2016
-    Tuesday & Thursday • 2:30-4:20PM • Room: 2MTC MAGNET 811
+#### Tisch School of the Arts • Game Design Department
+
+    Winnie Song • jys325@nyu.edu • Fall 2016
+    Tuesday • 4:55-7:35PM • Room: 2MTC MAGNET 830
 
 ---
 
 ## SCHEDULE OVERVIEW
 
-*All dates and assignments are subject to change at the discretion of the professor! Github and Slack are the official sources for all dates and assignments* 
+*All dates and assignments are subject to change at the discretion of the professor! Gitbook and Slack are the official sources for all dates and assignments* 
 
-*Github / [Slack](vfs16c.slack.com) are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or slack and in person during class.***
+**If there are any changes to the schedule in the syllabus, I will note these changes on slack and in person during class.***
 
 ####NYU ACADEMIC CALENDARS:####
 * NYU Academic Calendar https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1148
@@ -22,8 +23,7 @@
 <table>
     <tr>
         <th width="4%">wk</th>
-        <th width="48%">Tuesdays (Due on Date Listed)</th>
-        <th width="48%">Thursdays (Due on Date Listed)</th>
+        <th width="60%">Tuesdays (Due on Date Listed)</th>
     </tr>
     <tr>
         <td>1</td>
