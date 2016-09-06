@@ -9,7 +9,7 @@
 
 ---
 
-## Class Exercise: Brands
+## Elements Exercise: Brands
 
 * Post to blog
 
