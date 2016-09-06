@@ -9,25 +9,9 @@
 
 ---
 
-
-## SHOW & TELLS
-
-#### LOGO SHOW & TELLS
-
-* Pair up w/ 1 classmate 
-* Select an established brand that has had at least 3 logo iterations (ideally more) over the years.
-* One brand per team. Teams can not do the same brand. First team to sign up  their choice on the class website gets the brand.
-* Create a **7 minutes or less** presentation (pdf, powerpoint, keynote, quicktime, etc.) that shows and discusses the history of the evolution of the logo. 
-* You should find out the name of the logo designer (if you can), the dates that the logo was redesigned, and why it was redesigned.
-* Cite your sources
-* Decide whether or not you want to mirror your presentation or not (if you're using presentation tools)
-  * Get familiar with your display preferences
-* If you have sound during your presentation, set your external sound preferences in system preferences to **Crestron**
-
-
-#### CREATOR SHOW & TELLS
+#### Designer SHOW & TELL
 * Pair up w/ 1 classmate
-* Select an artist, designer, or collective from the list below.
+* Select an artist, designer, or collective from the list below OR request another designer
 * 5~7 minute presentation on the history, work and legacy of creator.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class.
 
