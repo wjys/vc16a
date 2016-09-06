@@ -26,8 +26,6 @@ This course allows students to harness the power of visual language in order to 
 
 ### PROGRAM GOALS
 
-The following IDM program goals are reinforced within this course. Students will:
-
 * 1 – Students will develop **conceptual thinking skills** to generate ideas and content in order to solve problems or create opportunities.
   * Students will develop a research and studio practice through inquiry and iteration.
 * 2 – Students will develop **technical skills** to realize their ideas.
@@ -109,20 +107,20 @@ Unexcused absences and being late to class will lower your final grade. Three un
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
 
-###### A. Excellent (90-100)
+###### A (85-100)
 Performance, participation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. The student thoroughly understands the theory and practice behind visual foundation.
 
-###### B. Very Good / Good (80-89)
+###### B (75-85)
 Performance, participation, and attendance of the student has been good, though not of the highest level. Work demonstrates a better than average understanding of visual foundation theory & practice.
 
-###### C. Satisfactory (70-79)
+###### C (65-75)
 Performance and attendance of the student has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of visual foundation theory & practice.
 
-###### D. Poor; Below Average (60-69)
+###### D (60-65)
 Performance and attendance of the student has been less than adequate. Work is lacking in many or most areas that show any understanding of visual foundation. Problems may include lack of interest, procrastination, poor planning and poor craft.
 
-###### F. Unacceptable (59 & Below)
-Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
+###### F (59 & Below)
+Performance and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a lack of interest.
 
 ####Mid-term Standing
 Students in danger of failing will be given a written warning prior to the final deadline for withdrawal from the course without academic penalty.
@@ -131,11 +129,11 @@ Students in danger of failing will be given a written warning prior to the final
 
 This class is about visual foundation principles first and foremost & technology second. Through lectures & demos, we will cover many important technical issues, but—as in the professional world—the burden of technology will always lie squarely on the designer’s shoulders. Community tech sharing is highly advised as well. In this syllabus and on github, I have listed several helpful resources to help you get up to speed with technology. 
 
-Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing VFS homework, making class presentations, etc. However, the following uses are unacceptable: instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings or discussions, your laptops should not be used.
+Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing homework, making class presentations, etc. However, the following uses are prohibited: instant messaging, texting, using social networking sites such as facebook, etc. Also, during class screenings or discussions, your devices should not be used.
 
 
 ### READINGS
-There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand visual foundation principles. Because this course is an exploration of theory AND practice, I expect full attention to both types of reading.
+There are two types of reading in this course: technical and theoretical. The former will offer practical exercises and explanations designed to teach production skills you will need for assignments. The latter provide conceptual, historical, and cultural background that will allow you to understand visual foundation principles.
 
 
 ### ACADEMIC INTEGRITY
@@ -155,6 +153,17 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 ### REQUIRED SUPPLIES
 * Laptop
+
+### REQUIRED SOFTWARE
+
+* Adobe Photoshop
+* Adobe Illustrator
+* Adobe Indesign
+
+http://www.adobe.com/creativecloud/buy/students.html
+http://www.adobe.com/downloads.html
+
+### <u>RECOMMENDED</u> SUPPLIES
 * Mark-making Utensils (pencils, pens, brushes, charcoal, etc.)
 * Sketchbook
 
@@ -167,24 +176,13 @@ These books (*) are available for purchase in the NYU bookstore, however are not
 * Type On Screen by Ellen Lupton *
 *
 
-### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
+### <u>[RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)</u>
 See Appendix
-
-### REQUIRED SOFTWARE
-
-* Adobe Photoshop
-* Adobe Illustrator
-* Adobe Indesign
-
-http://www.adobe.com/creativecloud/buy/students.html
-http://www.adobe.com/downloads.html
 
 ## PROJECTS & ASSIGNMENTS
 
 All due dates can be found in the calendar. This is just an overview and description of all the projects for the course.
 
-See appendices for all of the following:
-* [IDM Coursework Documentation](projects/dm1123_idm_coursework_documentation.md)
 * [Class Blog](projects/dm1123_vfs_blog.md)
 
 #### Projects
