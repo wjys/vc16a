@@ -21,7 +21,13 @@
 
 ## Intro to Visual Communication
 
-This course allows students to harness the power of visual language in order to convey messages and meaning. The elements of visual foundation that will be covered include components (color, texture, image and typography), composition, and concept. Although non-digital mediums will be addressed, the understanding and use of industry-standard software is also a primary goal.
+This course allows students to harness the power of visual language in order to convey messages and meaning. The elements of visual foundation that will be covered include components (color, texture, image and typography), composition, and concept. 
+
+Although the class takes place in the Game Design department, we will be less concerned with visuals as they are applied to games and instead will look at visual communication across a wide range of disciplines, from visual art to graphic design to web and interface design.
+
+Although non-digital mediums will be addressed, the understanding and use of industry-standard software is also a primary goal.
+
+The class is about the importance of visual design, how it shapes our culture. The students will learn about and discuss widely-practiced methods of visual communication, and then find their own voice through developing their own works, driven by a clearer understanding of their own tastes and interested fields.
 
 
 ### PROGRAM GOALS
@@ -37,10 +43,10 @@ This course allows students to harness the power of visual language in order to 
 ### COURSE GOALS
 
 This course will reinforce or introduce students to:
-* Introduction to the 3 Cs of visual language: components, composition & concept
 * Increased visual awareness and vocabulary through research and observation
 * Language with which to engage in discourse on visual culture and the design practice
 * Increased competency in visually communicating ideas and meaning through practice and iteration
+* Linking the principles of the course to computer and video games on a variety of platforms.
 * Portfolio pieces or self-branding products that will go on to represent the student's abilities and goals after the course
 * An introduction to Adobe Illustrator, Adobe InDesign, and Adobe Photoshop
 
@@ -60,18 +66,13 @@ Rules of the Critique:
 
 ### STUDENT RESPONSIBILITIES
 
-* Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
 * Devote at a minimum 4 to 8 hours per week outside of class, fulfilling homework assignments and readings
 * Consult Slack at least once a week for up to date info
 * Complete all assignments by due dates
 * Download and read all assigned readings before they are due
 * Talk to me in person about issues and problems <b>well in advance</b> of relevant deadlines. If under academic strains or if a scholarship is at stake, do not wait until it's too late.
-* Have desire amounting to enthusiasm (to learn, to explore)
-* Have patience, persistence, and discipline
 * Speak openly and candidly about ideas, concerns and your peers' work
-* Pay attention to detail & craft
-* Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
 
 ###RELIGIOUS OBLIGATION
@@ -86,7 +87,7 @@ Discrimination or hatespeech/crime of any kind towards another person or group w
 
 ##### Attendance
 
-Attending and arriving on time to all class sessions is required and expected. This includes all labs, recitations, and critiques. If you will be missing a class due to illness, or unavoidable personal circumstances, you must notify your professor in advance via email or slack for the absence to be excused.
+Attending and arriving on time to all class sessions is required and expected. This includes all labs, recitations, and critiques. If you will be missing a class due to illness, or unavoidable personal circumstances, you must notify your professor in advance via email for the absence to be excused.
 
 Unexcused absences and being late to class will lower your final grade. Three unexcused absences lower your final grade by a letter.  Each subsequent unexcused absence will lower another letter grade. Two tardies will count as one unexcused absence. Arriving more than 15 minutes late to class will also count as an unexcused absence.
 
@@ -94,14 +95,14 @@ Unexcused absences and being late to class will lower your final grade. Three un
 
 ##### Quantitative Grading Overview
 
-* 10% class exercises
-* 20% reading responses
-* 15% logo project
-* 15% interface project
-* 15% final project
-* 10% attendance and participation
-* 7.5% logo show and tell
-* 7.5% designer show and tell
+	•	10% elements exercises
+	•	10% reading responses
+	•	5% logo study
+	•	10% designer show and tell
+	•	15% logo project
+	•	20% interface project
+	•	20% final project
+	•	10% attendance and participation
 
 ##### Qualitative Grading Overview
 
@@ -194,9 +195,8 @@ All due dates can be found in the calendar. This is just an overview and descrip
 #### Assignments
 ######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
-* Class Exercises
+* Elements Exercises
 * Process Work & Feedback
-* [Show and Tells](projects/dm1123_vfs_show_and_tells.md)
 
 
 ### [SCHEDULE OVERVIEW GRID](dm1123_schedule_overview.md)
