@@ -40,7 +40,7 @@
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top"><a href="weekly_detail/wk3.md">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Feb 8 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i></strong></td>
+        <td valign="top"><a href="weekly_detail/wk3.md">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i></strong></td>
         <td valign="top"><a href="weekly_detail/wk3.md">Feb 11<br><strong>Components: COLOR & TYPE<br>
         Color & Type Exercise<br>
         Adobe tutorials</strong></a></td>
