@@ -195,6 +195,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 #### Assignments
 ######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
 * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
+* Logo Study
 * Elements Exercises
 * Process Work & Feedback
 
