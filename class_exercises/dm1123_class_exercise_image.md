@@ -9,7 +9,7 @@
 
 ---
 
-## Class Exercise: Images
+## Elements Exercise: Images
 
 * **Post to blog, the following**
 
