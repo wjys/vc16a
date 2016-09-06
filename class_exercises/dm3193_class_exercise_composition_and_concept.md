@@ -9,7 +9,7 @@
 
 ---
 
-## Class Exercise: Composition and Concept
+## Elements Exercise: Composition and Concept
 
 * **POST TO BLOG**
 
