@@ -190,7 +190,7 @@ All due dates can be found in the calendar. This is just an overview and descrip
 ######Submit as .PDF files through a Private Message on [Slack](vfs16c.slack.com)
 * [Branding Project](projects/dm1123_vfs_projects_logo.md)
 * [Interface Project](projects/dm1123_vfs_projects_interface.md)
-* Final Project ([ANALYSIS] / [STORYTELLING] / [IDENTITY DEVELOPMENT])
+* Final Project (ANALYSIS / STORYTELLING / IDENTITY DEVELOPMENT)
 
 #### Assignments
 ######Submit as posts on your [Class Blog](projects/dm1123_vfs_blog.md)
