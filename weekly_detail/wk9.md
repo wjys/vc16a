@@ -1,10 +1,11 @@
-# DM-UY 1123 Visual Foundation Studio
+# GAMES-UT 201: Intro to Visual Communication
 
-![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
-#### Integrated Digital Media • Technology, Culture &amp; Society Department
+![](http://www.fusionfilmfestival.com/wp-content/uploads/2013/01/tisch-logo-left.png)
 
-    Winnie Song • jys325@nyu.edu • Fall 2015 
-    Mondays & Fridays • 2:30-4:20PM • Room: 2MTC MAGNET 811
+#### Tisch School of the Arts • Game Design Department
+
+    Winnie Song • jys325@nyu.edu • Fall 2016
+    Tuesday • 4:55-7:35PM • Room: 2MTC MAGNET 830
 
 ---
 
