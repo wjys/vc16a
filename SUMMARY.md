@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Schedule](schedule_overview.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 * Assignments
@@ -20,5 +21,4 @@
    * [PROJECT: BRAND](projects/dm1123_vfs_projects_logo.md)
    * [PROJECT: INTERFACE](projects/dm1123_vfs_projects_interface.md)
    * [PROJECT: FINAL](projects/dm1123_vfs_projects_analysis.md)
-* [Schedule](schedule_overview.md)
 
