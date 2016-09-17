@@ -33,7 +33,9 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>09/13<br><strong><i>Components: COLOR</i></strong></a><br>Photoshop Introduction<br></td>
+        <td>09/13<br><strong><i>Components: COLOR</i></strong></a><br>- Photoshop Introduction
+        <br>- Screening: The Worst-Designed Thing You've Never Noticed - Roman Mars</td>
+        
     </tr>
     <tr>
         <td>3</td>
