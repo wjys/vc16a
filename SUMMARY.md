@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
 * [Syllabus](dm1123_vfs_syllabus.md)
-* [Schedule](schedule_overview.md)
 * [Recommended Resources](dm1123_vfs_recommended_resources.md)
 * Assignments
    * [Elements of Design](class_exercises.md)
