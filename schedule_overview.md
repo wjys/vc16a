@@ -23,13 +23,13 @@
 <table>
     <tr>
         <th width="4%">wk</th>
-        <th width="60%">Tuesdays (Due on Date Listed)</th>
+        <th width="100%">Tuesdays (Due on Date Listed)</th>
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/wk1.md">09/06<br><strong>Course and Student Introductions & Overview of Course</strong><br>
+        <td>09/06<br><br><strong>Course and Student Introductions & Overview of Course</strong><br>
         Visual Design Intro: What is Visual Design?<br>
-        Screening: Black Panther</a></td>
+        Screening: Black Panther</td>
     </tr>
     <tr>
         <td>2</td>
@@ -40,8 +40,7 @@
     <tr>
         <td>3</td>
         <td valign="top">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i><br></strong>
-        Color & Type Exercise<br>
-        Adobe tutorials</strong></strong></td>
+        - </strong></strong></td>
         
     </tr>
     <tr>
@@ -72,15 +71,13 @@
     </tr>
     <tr>
         <td>8</td>
-        <td>10/25<br><strong></strong></td>
-        <td>Mar 17<br><strong>NO CLASS (SPRING BREAK)</strong></td>
+        <td>10/25<br><strong></strong><strong>NO CLASS (SPRING BREAK)</strong></td>
     </tr>
     <tr>
         <td>9</td>
         <td valign="top"><a href="weekly_detail/wk9.md">11/01<br><strong>Qualitative Issues (RR)<br>
         Semiotics<br>
-        Logo: Second Draft Critique</strong></td>
-        <td valign="top"><a href="weekly_detail/wk9.md">Mar 24<br><strong>Logo Project DUE<br>
+        Logo: Second Draft Critique</strong><a href="weekly_detail/wk9.md">Mar 24<br><strong>Logo Project DUE<br>
         Qualitative & Quantitative Issues Exercise</a></strong></td>
     </tr>
     <tr>
