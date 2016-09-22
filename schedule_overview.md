@@ -93,7 +93,7 @@
     </tr>
     <tr>
         <td>7</td>
-        <td><a href="weekly_detail/wk7.md">10/18<br>
+        <td>10/18<br>
         <STRONG>Semiotics<br>
         Logo: First Draft Critique<br>Good-Looking vs. Good-Using</A><br>
         <br><strong>Semiotics<br>
@@ -105,42 +105,42 @@
     </tr>
     <tr>
         <td>9</td>
-        <td valign="top"><a href="weekly_detail/wk9.md">11/01<br><strong>Qualitative Issues (RR)<br>
+        <td valign="top">11/01<br><strong>Qualitative Issues (RR)<br>
         Semiotics<br>
-        Logo: Second Draft Critique</strong><a href="weekly_detail/wk9.md">Mar 24<br><strong>Logo Project DUE<br>
-        Qualitative & Quantitative Issues Exercise</a></strong></td>
+        Logo: Second Draft Critique</strong><br><strong>Logo Project DUE<br>
+        Qualitative & Quantitative Issues Exercise</strong></td>
     </tr>
     <tr>
         <td>10</td>
-        <td><a href="weekly_detail/wk10.md">11/08<br><strong>Quantitative Issues (RR)</strong></a><br>
+        <td>11/08<br><strong>Quantitative Issues (RR)</strong><br>
         Wireframes
-        <br><a href="weekly_detail/wk10.md">Mar 31<br><strong>Wireframe Guide</a></strong></td>
+        <br>Mar 31<br><strong>Wireframe Guide</strong></td>
     </tr>
     <tr>
         <td>11</td>
-        <td><a href="weekly_detail/wk11.md">11/15<br><strong>
+        <td>11/15<br><strong>
         Interface Project: First Draft Critique
-        <br>Human Factor</strong><br><a href="weekly_detail/wk11.md">Apr 7<br><strong>Interactive Design Exercise<br>
-        Human Factor & Color</a></strong></strong></td>
+        <br>Human Factor</strong><br>Apr 7<br><strong>Interactive Design Exercise<br>
+        Human Factor & Color</strong></strong></td>
     </tr>
     <tr>
         <td>12</td>
-        <td><a href="weekly_detail/wk12.md">11/12<br><strong>Interface Project: First Draft Critique<br></a></strong><br><a href="weekly_detail/wk12.md">Apr 14<br><strong>Guest Speaker: TBD<br>
+        <td>11/12<br><strong>Interface Project: First Draft Critique<br></a></strong><br>Apr 14<br><strong>Guest Speaker: TBD<br>
         Final Project Audit</a></strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td><a href="weekly_detail/wk13.md">11/29<br><strong>Interface Project: Second Draft Critique</a><br>
-        Final Project Audit</strong><br>Apr 21<br><a href="weekly_detail/wk13.md">Apr 19<br><strong>Interface Project DUE
+        <td>11/29<br><strong>Interface Project: Second Draft Critique<br>
+        Final Project Audit</strong><br>Apr 21<br>Apr 19<br><strong>Interface Project DUE
         <br>History of Taste: Contemporary Art & Design<br>
-        Final Project Audit</a></strong></td>
+        Final Project Audit</strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td><a href="weekly_detail/wk14.md">12/06<br><strong>Final Project: First Draft Critique</a></strong><br><a href="weekly_detail/wk14.md">Apr 28<br><strong>History of Taste: Contemporary Art & Design</a></strong></td>
+        <td>12/06<br><strong>Final Project: First Draft Critique</strong><br>Apr 28<br><strong>History of Taste: Contemporary Art & Design</strong></td>
     </tr>
     <tr>
         <td>15</td>
-        <td><a href="weekly_detail/wk15.md">12/13<br><strong><i>Final Project: First Draft Critique</i><br>POST-PRODUCTION</strong></A><br><a href="weekly_detail/wk15.md">May 5<br><strong>Final Project DUE</a></strong></td>
+        <td>12/13<br><strong><i>Final Project: First Draft Critique</i><br>POST-PRODUCTION</strong><br>May 5<br><strong>Final Project DUE</strong></td>
     </tr>
 </table>
