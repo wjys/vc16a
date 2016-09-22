@@ -86,7 +86,7 @@
        <b><u>Assigned:</b><br>
         - Elements Exercises: Composition & Concept<br>
         - <b>LOGO PROJECT</b> - First Draft<Br>
-        - Logo Study Due Week 5<br>
+        - Logo Study Due NEXT WEEK (Week 5)<br>
         <b><u>Screening:</b><br>- Font Men - <i>SXSW 2014</i>
         <br>- The Art of Logo Design - <i>Offbook</td>
     </tr>
@@ -154,6 +154,7 @@
     </tr>
     <tr>
         <td>15</td>
-        <td>12/13<br><strong><i>Final Project: First Draft Critique</i><br>POST-PRODUCTION</strong><br>May 5<br><strong>Final Project DUE</strong></td>
+        <td>12/13<br><b>NO CLASS * Final Project DUE</b><br>
+        Legislative Day - Monday Schedule<br></td>
     </tr>
 </table>
