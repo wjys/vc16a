@@ -33,7 +33,7 @@
         - Elements Exercises: Color<br>
         - Brand Brainstorm<Br>
         <b><u>Screening:</b><br>
-        - Black Panther</td>
+        - Emory Douglas - The Art of Black Panther</td>
     </tr>
     <tr>
         <td>2</td>
@@ -47,7 +47,7 @@
         - Elements Exercises: Type<br>
         - <b>LOGO PROJECT</b> - Audit & Moodboard<Br>
         - Logo Study Sign-ups (Due Week 5)
-        <b><u>Screening:</b><br>- The Worst-Designed Thing You've Never Noticed - <i>Roman Mars</td>
+        <br><b><u>Screening:</b><br>- The Worst-Designed Thing You've Never Noticed - <i>Roman Mars</td>
         
     </tr>
     <tr>
@@ -66,7 +66,7 @@
         - Elements Exercises: Images<br>
         - <b>LOGO PROJECT</b> - Compositions<Br>
         - Logo Study Sign-ups (Due Week 5)
-        <b><u>Screening:</b><br>- Font Men - <i>SXSW 2014</i>
+        <br><b><u>Screening:</b><br>- Font Men - <i>SXSW 2014</i>
         <br>- The Art of Logo Design - <i>Offbook
        <br>
        <br>
@@ -75,7 +75,20 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top"><u><b>09/27</b></u><br><strong>•  Element: IMAGE, COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
+        <td valign="top"><u><b>09/27</b></u><br><strong>•  Element: IMAGE</strong><br>
+        &emsp;> Figure, Ground & Framing<Br>
+       &emsp;> Rhythm, Balance, Scale, Texture<Br>
+       &emsp;> "Rules of Seeing" Lecture<br>
+       <br><strong>• <b>LOGO PROJECT</strong></b>
+       
+       <br>
+       &emsp;+ Critique: Compositions<br><br>
+       <b><u>Assigned:</b><br>
+        - Elements Exercises: Composition & Concept<br>
+        - <b>LOGO PROJECT</b> - First Draft<Br>
+        - Logo Study Due Week 5<br>
+        <b><u>Screening:</b><br>- Font Men - <i>SXSW 2014</i>
+        <br>- The Art of Logo Design - <i>Offbook</td>
     </tr>
     <tr>
         <td>5</td>
