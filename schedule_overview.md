@@ -75,7 +75,7 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">09/27<br><strong>Element: IMAGE,</a><br>COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
+        <td valign="top"><u><b>09/27</b></u><br><strong>•  Element: IMAGE, COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
     </tr>
     <tr>
         <td>5</td>
