@@ -27,25 +27,55 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>09/06<br><br><strong>Course and Student Introductions & Overview of Course</strong><br>
-        Visual Design Intro: What is Visual Design?<br>
-        Screening: Black Panther</td>
+        <td><b><u>09/06</u></b><br><br>• Course and Student Introductions & Overview of Class<br>
+        • Visual Design Intro: What is Visual Design?<br><br>
+        <b><u>Assigned:</b><br>
+        - Elements Exercises: Color<br>
+        - Brand Brainstorm<Br>
+        <b><u>Screening:</b><br>
+        - Black Panther</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>09/13<br><strong><i>Components: COLOR</i></strong></a><br>- Photoshop Introduction
-        <br>- Screening: The Worst-Designed Thing You've Never Noticed - Roman Mars</td>
+        <td><b><u>09/13</u></b><br><strong>• Principles of Design (CRAP)<br>
+       • Element: COLOR</strong></a><br>
+       &emsp;> Color Relationships & Contexts<Br>
+       &emsp;> Color as Tool for Comprehension<br>
+       •  Intro to Adobe Programs - Tutorial<br>
+       <Br>
+       <b><u>Assigned:</b><br>
+        - Elements Exercises: Type<br>
+        - <b>LOGO PROJECT</b> - Audit & Moodboard<Br>
+        - Logo Study Sign-ups (Due Week 5)
+        <b><u>Screening:</b><br>- The Worst-Designed Thing You've Never Noticed - <i>Roman Mars</td>
         
     </tr>
     <tr>
         <td>3</td>
-        <td valign="top">09/20<br><strong>Components: TYPE</strong></a><br><strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i><br></strong>
-        - </strong></strong></td>
+        <td valign="top"><u><b>09/20</b></u><br><strong>• Element: TYPE</strong></a><br>
+        &emsp;> Brief History of Typography<Br>
+       &emsp;> Anatomy of Type<Br>
+       &emsp;> Typography as Visual Subtext, Role of Type<br>
+       <br><strong>• <b>LOGO PROJECT</strong></b>
+       
+       <br>
+       &emsp;> What is a Logo?<Br>
+       &emsp;> Developing a Brand<Br>
+       &emsp;+ Critique: Brand Audit & Moodboard<br><br>
+       <b><u>Assigned:</b><br>
+        - Elements Exercises: Images<br>
+        - <b>LOGO PROJECT</b> - Compositions<Br>
+        - Logo Study Sign-ups (Due Week 5)
+        <b><u>Screening:</b><br>- Font Men - <i>SXSW 2014</i>
+        <br>- The Art of Logo Design - <i>Offbook
+       <br>
+       <br>
+       <strong><i>Note: Sept 19th - Last day to drop a class and receive a refund of 100% of tuition &amp; fees and not receive a grade of "W"</i><br></strong></td>
         
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">09/27<br><strong>Components: IMAGE,</a><br>COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
+        <td valign="top">09/27<br><strong>Element: IMAGE,</a><br>COMPOSITION & CONCEPT</strong><br><strong><i></i></strong>What is a Logo?<br></td>
     </tr>
     <tr>
         <td>5</td>
@@ -65,8 +95,8 @@
         <td>7</td>
         <td><a href="weekly_detail/wk7.md">10/18<br>
         <STRONG>Semiotics<br>
-        Logo: First Draft Critique<br>Good-Looking vs. Good-Using</A></td>
-        <td><a href="weekly_detail/wk7.md">Mar 10<br><strong>Semiotics<br>
+        Logo: First Draft Critique<br>Good-Looking vs. Good-Using</A><br>
+        <br><strong>Semiotics<br>
         Semiotics Exercise</strong></a></td>
     </tr>
     <tr>
@@ -83,39 +113,34 @@
     <tr>
         <td>10</td>
         <td><a href="weekly_detail/wk10.md">11/08<br><strong>Quantitative Issues (RR)</strong></a><br>
-        Wireframes</td>
-        <td><a href="weekly_detail/wk10.md">Mar 31<br><strong>Wireframe Guide</a></strong></td>
+        Wireframes
+        <br><a href="weekly_detail/wk10.md">Mar 31<br><strong>Wireframe Guide</a></strong></td>
     </tr>
     <tr>
         <td>11</td>
         <td><a href="weekly_detail/wk11.md">11/15<br><strong>
         Interface Project: First Draft Critique
-        <br>Human Factor</strong></td>
-        <td><a href="weekly_detail/wk11.md">Apr 7<br><strong>Interactive Design Exercise<br>
+        <br>Human Factor</strong><br><a href="weekly_detail/wk11.md">Apr 7<br><strong>Interactive Design Exercise<br>
         Human Factor & Color</a></strong></strong></td>
     </tr>
     <tr>
         <td>12</td>
-        <td><a href="weekly_detail/wk12.md">11/12<br><strong>Interface Project: First Draft Critique<br></a></strong></td>
-        <td><a href="weekly_detail/wk12.md">Apr 14<br><strong>Guest Speaker: TBD<br>
+        <td><a href="weekly_detail/wk12.md">11/12<br><strong>Interface Project: First Draft Critique<br></a></strong><br><a href="weekly_detail/wk12.md">Apr 14<br><strong>Guest Speaker: TBD<br>
         Final Project Audit</a></strong></td>
     </tr>
     <tr>
         <td>13</td>
         <td><a href="weekly_detail/wk13.md">11/29<br><strong>Interface Project: Second Draft Critique</a><br>
-        Final Project Audit</strong></td>
-        <td>Apr 21<br><a href="weekly_detail/wk13.md">Apr 19<br><strong>Interface Project DUE
+        Final Project Audit</strong><br>Apr 21<br><a href="weekly_detail/wk13.md">Apr 19<br><strong>Interface Project DUE
         <br>History of Taste: Contemporary Art & Design<br>
         Final Project Audit</a></strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td><a href="weekly_detail/wk14.md">12/06<br><strong>Final Project: First Draft Critique</a></strong></td>
-        <td><a href="weekly_detail/wk14.md">Apr 28<br><strong>History of Taste: Contemporary Art & Design</a></strong></td>
+        <td><a href="weekly_detail/wk14.md">12/06<br><strong>Final Project: First Draft Critique</a></strong><br><a href="weekly_detail/wk14.md">Apr 28<br><strong>History of Taste: Contemporary Art & Design</a></strong></td>
     </tr>
     <tr>
         <td>15</td>
-        <td><a href="weekly_detail/wk15.md">12/13<br><strong><i>Final Project: First Draft Critique</i><br>POST-PRODUCTION</strong></A></td>
-        <td><a href="weekly_detail/wk15.md">May 5<br><strong>Final Project DUE</a></strong></td>
+        <td><a href="weekly_detail/wk15.md">12/13<br><strong><i>Final Project: First Draft Critique</i><br>POST-PRODUCTION</strong></A><br><a href="weekly_detail/wk15.md">May 5<br><strong>Final Project DUE</a></strong></td>
     </tr>
 </table>
