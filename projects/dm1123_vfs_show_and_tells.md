@@ -13,7 +13,7 @@
 
 **<<<<[SIGN-UP SHEET](https://docs.google.com/spreadsheets/d/1SUibYoUaLWTiFrpRIoNWrkfRFvp_zhDEw7EKqpZvUs4/edit?usp=sharing)>>>>**
 
-* Pair up w/ 1 classmate
+* Groups of 3
 * Select an artist, designer, or collective from the list below OR request another designer
 * 5~7 minute presentation on the history, work and legacy of creator.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class.
@@ -34,6 +34,8 @@
 * Shepard Fairey (semiotics)
 * Saul Bass (for logos, not film titles)
 * Nicholas Felton (data visualization)
+* Tomohiro Nishikado (game maker)
+* Shigeru Miyamoto (game maker)
 * Request another artist/designer
 
 
