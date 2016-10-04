@@ -14,7 +14,6 @@
        * [Brand](class_exercises/dm1123_class_exercise_brand.md)
    * [Reading Responses](projects/dm1123_vfs_reading_responses.md)
    * [Designer Show & Tell](projects/dm1123_vfs_show_and_tells.md)
-       * [Sign-Up](signups.md)
    * [Logo Study](logo_study.md)
 * Projects
    * [PROJECT: BRAND](projects/dm1123_vfs_projects_logo.md)
