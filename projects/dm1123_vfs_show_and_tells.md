@@ -10,6 +10,9 @@
 ---
 
 #### Designer SHOW & TELL
+
+**<<<<[SIGN-UP SHEET](https://docs.google.com/spreadsheets/d/1SUibYoUaLWTiFrpRIoNWrkfRFvp_zhDEw7EKqpZvUs4/edit?usp=sharing)>>>>**
+
 * Pair up w/ 1 classmate
 * Select an artist, designer, or collective from the list below OR request another designer
 * 5~7 minute presentation on the history, work and legacy of creator.
